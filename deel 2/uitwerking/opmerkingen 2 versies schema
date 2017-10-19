@@ -1,0 +1,11 @@
+stap 1
+
+Of de subklassen al in stap 1 aanwezig moeten zijn, is blijkbaar voor discussie vatbaar.
+Is er toch geen beter overzicht op deze manier (ook de subklassen in stap 1)?
+
+stap 2
+
+In de oefenzitting werden de "weak entity types" meteen in relatie gebracht (pijltje ertussen) met hun identificerende entiteiten
+
+Elke tupel in de relatie "edit” wordt geïdentificeerd door een unieke combinatie van de  primaire sleutels: (Mod_ID; User_ID; Post_ID) 
+(m.a.w.: die 3 moeten dus ook als primaire sleutel aangegeven worden)
